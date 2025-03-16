@@ -1,4 +1,4 @@
-# EV_Stations_Analysis   ![image](https://github.com/user-attachments/assets/f6a75e07-5c23-4336-ab7c-533297fc81fe)
+# EVC_Stations_Analysis   ![image](https://github.com/user-attachments/assets/f6a75e07-5c23-4336-ab7c-533297fc81fe)
 
 
 An exploratory visual analysis of the relationships between variables in a dataset on global electric vehicles, EV, charging stations.
